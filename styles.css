@@ -12,8 +12,8 @@ color:white;
 
 .item{
     width: 260px;
-
-     max-height:0;
+max-height: 0px;
+    
     transition: all .5s ;
 }
 
